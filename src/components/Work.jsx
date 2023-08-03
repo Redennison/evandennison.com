@@ -2,6 +2,7 @@ import React from 'react'
 import LifeSaver from '../assets/lifesaver.jpeg'
 import NodeMessage from '../assets/nodemessage.jpeg'
 import TutorCentre from '../assets/tutorcentre.jpeg'
+import ChemCam from '../assets/chemcam.png'
 
 const Work = () => {
   return (
@@ -74,6 +75,27 @@ const Work = () => {
                                 <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
                             <a target="_blank" rel="noreferrer" href="https://github.com/Redennison/Tutor-Centre">
+                                <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div style={{backgroundImage: `url(${ChemCam})`}} 
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    
+                    {/* Hover effects */}
+                    <div className='opacity-0 group-hover:opacity-100'>
+                        <span className='pb-2 text-2xl font-bold text-white tracking-wider flex justify-center'>
+                            ChemCam
+                        </span>
+                        <span className='mx-4 text-2sm font-bold text-white tracking-wider flex justify-center'>
+                        ChemCam is a website which provides users with the ability to input a formula name, either through text or an image, and be displayed with the chemical formula. ChemCam displays the last 10 conversions, and has a detailed help page. Click "demo" to watch ChemCam in action!<br></br>Technologies: Python, Flask, pytesseract
+                        </span>
+                        <div className='pt-2 text-center'>
+                            <a target="_blank" rel="noreferrer" href="https://youtu.be/LJfloeurg60">
+                                <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            </a>
+                            <a target="_blank" rel="noreferrer" href="https://github.com/Redennison/ChemCam">
                                 <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
