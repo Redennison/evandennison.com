@@ -1,16 +1,12 @@
 import React from 'react'
 
-import HTML from '../assets/html.png';
-import CSS from '../assets/css.png';
 import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
 import Node from '../assets/node.png';
-import FireBase from '../assets/firebase.png';
-import GitHub from '../assets/github.png';
-import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.png';
 import Python from '../assets/python.png'
 import CPlusPlus from '../assets/c++.png'
+import Java from '../assets/java.png'
 
 const Skills = () => {
   return (
@@ -46,6 +42,10 @@ const Skills = () => {
                 <div className='pt-4 shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={ReactImg} alt="React.js icon" />
                     <p className='my-4'>REACT JS</p>
+                </div>
+                <div className='pt-4 shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={Java} alt="Java icon" />
+                    <p className='my-4'>JAVA</p>
                 </div>
             </div>
         </div>
