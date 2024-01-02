@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0761b2b.css",
-    "main.js": "/static/js/main.6264eda4.js",
-    "static/media/bikeimage.JPG": "/static/media/bikeimage.73032b670329f10f22cc.JPG",
-    "static/media/lifesaver.jpeg": "/static/media/lifesaver.ac3f6976eedddb1fb450.jpeg",
-    "static/media/java.png": "/static/media/java.5b6f68aad04052c59765.png",
-    "static/media/tutorcentre.jpeg": "/static/media/tutorcentre.c43cfe94f7496899c266.jpeg",
-    "static/media/chemcam.png": "/static/media/chemcam.f81e62ebf803450c0ec7.png",
-    "static/media/derivefx.png": "/static/media/derivefx.bf4e8e279c25fb1d9e0d.png",
-    "static/media/python.png": "/static/media/python.054f66890689fe86e837.png",
-    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/ED2.png": "/static/media/ED2.68f3e8e965c94ea8a543.png",
-    "static/media/nodemessage.jpeg": "/static/media/nodemessage.3b6087c672fe697a54ba.jpeg",
-    "static/media/c++.png": "/static/media/c++.90dd2a55f18b8be1a3e7.png",
-    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/index.html",
-    "main.a0761b2b.css.map": "/static/css/main.a0761b2b.css.map",
-    "main.6264eda4.js.map": "/static/js/main.6264eda4.js.map"
+    "main.css": "/evandennison.com/static/css/main.6237f0db.css",
+    "main.js": "/evandennison.com/static/js/main.c10cdacb.js",
+    "static/media/bikeimage.JPG": "/evandennison.com/static/media/bikeimage.73032b670329f10f22cc.JPG",
+    "static/media/lifesaver.jpeg": "/evandennison.com/static/media/lifesaver.ac3f6976eedddb1fb450.jpeg",
+    "static/media/java.png": "/evandennison.com/static/media/java.5b6f68aad04052c59765.png",
+    "static/media/tutorcentre.jpeg": "/evandennison.com/static/media/tutorcentre.c43cfe94f7496899c266.jpeg",
+    "static/media/basket-buddy-image.png": "/evandennison.com/static/media/basket-buddy-image.6f0a514a56e28c02876e.png",
+    "static/media/chemcam.png": "/evandennison.com/static/media/chemcam.f81e62ebf803450c0ec7.png",
+    "static/media/derivefx.png": "/evandennison.com/static/media/derivefx.bf4e8e279c25fb1d9e0d.png",
+    "static/media/python.png": "/evandennison.com/static/media/python.054f66890689fe86e837.png",
+    "static/media/react.png": "/evandennison.com/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/evandennison.com/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/evandennison.com/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/ED2.png": "/evandennison.com/static/media/ED2.68f3e8e965c94ea8a543.png",
+    "static/media/nodemessage.jpeg": "/evandennison.com/static/media/nodemessage.3b6087c672fe697a54ba.jpeg",
+    "static/media/c++.png": "/evandennison.com/static/media/c++.90dd2a55f18b8be1a3e7.png",
+    "static/media/javascript.png": "/evandennison.com/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/evandennison.com/index.html",
+    "main.6237f0db.css.map": "/evandennison.com/static/css/main.6237f0db.css.map",
+    "main.c10cdacb.js.map": "/evandennison.com/static/js/main.c10cdacb.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0761b2b.css",
-    "static/js/main.6264eda4.js"
+    "static/css/main.6237f0db.css",
+    "static/js/main.c10cdacb.js"
   ]
 }
