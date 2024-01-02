@@ -6,10 +6,7 @@ import Work from "./components/Work";
 import Contact from "./components/Contact";
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-
-const startUp = (url) => {
-
-}
+import './index.css';
 
 function App() {
   const startUp = (url) => {
@@ -32,10 +29,10 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Home />
-      <About />
-      <Skills />
-      <Work />
+      <Home /><div className="section-spacing" />
+      <About /><div className="section-spacing" />
+      <Skills /><div className="section-spacing" />
+      <Work /><div className="section-spacing" />
       <Contact />
     </div>
   );
