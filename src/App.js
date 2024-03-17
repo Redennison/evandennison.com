@@ -3,7 +3,6 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Work from "./components/Work";
-import Contact from "./components/Contact";
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import './index.css';
@@ -29,11 +28,14 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Home /><div className="section-spacing" />
-      <About /><div className="section-spacing" />
-      <Skills /><div className="section-spacing" />
-      <Work /><div className="section-spacing" />
-      <Contact />
+      <Home />
+        <div className="py-16 bg-[#0a192f]" />
+      <About />
+        <div className="py-16 bg-[#0a192f]" />
+      <Skills />
+        <div className="py-16 bg-[#0a192f]" />
+      <Work />
+        <div className="py-16 bg-[#0a192f]" />
     </div>
   );
 }
