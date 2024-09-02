@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.835d13d5.css",
+    "main.js": "/static/js/main.f75f0a93.js",
+    "static/media/bikeimage.JPG": "/static/media/bikeimage.73032b670329f10f22cc.JPG",
+    "static/media/basket-buddy-image.png": "/static/media/basket-buddy-image.59c8dad5f8e56ac467bb.png",
+    "static/media/lifesaver.jpeg": "/static/media/lifesaver.ac3f6976eedddb1fb450.jpeg",
+    "static/media/java.png": "/static/media/java.5b6f68aad04052c59765.png",
+    "static/media/tutorcentre.jpeg": "/static/media/tutorcentre.c43cfe94f7496899c266.jpeg",
+    "static/media/chemcam.png": "/static/media/chemcam.f81e62ebf803450c0ec7.png",
+    "static/media/derivefx.png": "/static/media/derivefx.bf4e8e279c25fb1d9e0d.png",
+    "static/media/python.png": "/static/media/python.054f66890689fe86e837.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/ED2.png": "/static/media/ED2.68f3e8e965c94ea8a543.png",
+    "static/media/nodemessage.jpeg": "/static/media/nodemessage.3b6087c672fe697a54ba.jpeg",
+    "static/media/c++.png": "/static/media/c++.90dd2a55f18b8be1a3e7.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.835d13d5.css.map": "/static/css/main.835d13d5.css.map",
+    "main.f75f0a93.js.map": "/static/js/main.f75f0a93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.835d13d5.css",
+    "static/js/main.f75f0a93.js"
+  ]
+}

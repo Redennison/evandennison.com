@@ -11,9 +11,8 @@ const About = () => {
 🎉 Here are some of my achievements:
 
 📈 2nd Place @ Milwaukee Bucks Business Analytics Hackathon - March 2024
-🥇 Governer General's Academic Medal - June 2023
-☁️ 6th Place @ Hack the Cloud 2.0 - July 2021
-💻 Honourable Mention @ OHacksIO - Sept. 2021`
+📚 Dean's Honours List Recipient - March 2024
+🥇 Governer General's Academic Medal - June 2023`
   return (
     <div name='about' className='w-full bg-[#0a192f] text-gray-300'>
         <div className='flex flex-col justify-center items-center w-full h-full'>
