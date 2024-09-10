@@ -34,7 +34,7 @@ const Home = () => {
                 </span>
                 </button>
               </Link>
-              <a target="_blank" rel="noreferrer" className="mx-2 text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#8892b0] hover:border-[#8892b0]" href="https://drive.google.com/file/d/1xql6kAj9xo6jOPk1bsWqm_W8rO3gMffY/view?usp=drive_link">
+              <a target="_blank" rel="noreferrer" className="mx-2 text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#8892b0] hover:border-[#8892b0]" href="https://drive.google.com/file/d/1yrHLBLAPEFCvuMgbqbrnLcMEJKi4P9rP/view?usp=sharing">
                 Download CV 
                 <span>
                   <RiPagesLine className='ml-3'/>

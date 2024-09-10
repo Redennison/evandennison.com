@@ -49,9 +49,6 @@ const Work = () => {
                         A Node.js and MongoDB-based application designed to facilitate bulk text message transmission using Twilio.
                         </span>
                         <div className='pt-2 text-center'>
-                            <a target="_blank" rel="noreferrer" href="https://multi-sms-application.herokuapp.com/register">
-                                <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                            </a>
                             <a target="_blank" rel="noreferrer" href="https://github.com/Redennison/SMS-Application">
                                 <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
