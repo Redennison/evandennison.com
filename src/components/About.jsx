@@ -3,7 +3,7 @@ import bikeImage from '../assets/bikeimage.JPG'
 
 const About = () => {
   const fullText = 
-`👋 I'm a software engineering student at the University of Waterloo, passionate about Artificial Intelligence, Machine Learning and Full Stack development. If I'm not in front of my laptop, I'm most likely working out, playing guitar, or shredding the slopes!`
+`Software engineering student at the University of Waterloo. Passionate about Backend Engineering and applied AI/ML`
   return (
     <div name='about' className='w-full bg-[#0a192f] text-gray-300'>
         <div className='flex flex-col justify-center items-center w-full h-full'>

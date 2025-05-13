@@ -1,10 +1,8 @@
 import React from 'react'
-import LifeSaver from '../assets/lifesaver.jpeg'
-import NodeMessage from '../assets/nodemessage.jpeg'
-import TutorCentre from '../assets/tutorcentre.jpeg'
+import NodeMessage from '../assets/node-ify.png'
 import ChemCam from '../assets/chemcam.png'
-import DeriveFX from '../assets/derivefx.png'
 import BasketBuddy from '../assets/basket-buddy-image.png'
+import TutorCentre from '../assets/tutorcentre.jpeg'
 
 const Work = () => {
   return (
@@ -28,7 +26,7 @@ const Work = () => {
                             Basket Buddy
                         </span>
                         <span className='mx-4 text-sm font-bold text-white tracking-wider flex justify-center'>
-                        This project is a basketball shot tracking system using a Raspberry Pi and sensors, paired with a mobile app. It provides instant shot statistics and progress tracking in a user-friendly format.
+                        Real-time basketball shot-tracking app built with React Native, Python, and Raspberry Pi. It processes sensor data in real-time via a Flask and MongoDB backend, providing shooting stats and progress tracking with an interactive calendar.
                         </span>
                         <div className='pt-2 text-center'>
                             <a target="_blank" rel="noreferrer" href="https://github.com/Redennison/Basket-Buddy">
@@ -46,7 +44,7 @@ const Work = () => {
                             Node-ify
                         </span>
                         <span className='mx-4 text-sm font-bold text-white tracking-wider flex justify-center'>
-                        A Node.js and MongoDB-based application designed to facilitate bulk text message transmission using Twilio.
+                        Full-stack emergency messaging platform built with Node.js, MongoDB, and Twilio. Includes secure JWT authentication, user management, and the ability to send targeted SMS alerts to custom contact groups.
                         </span>
                         <div className='pt-2 text-center'>
                             <a target="_blank" rel="noreferrer" href="https://github.com/Redennison/SMS-Application">
@@ -64,34 +62,28 @@ const Work = () => {
                             ChemCam
                         </span>
                         <span className='mx-4 text-sm font-bold text-white tracking-wider flex justify-center'>
-                        A Flask-based website that employs advanced algorithms to retrieve chemical formulas based on user-inputted formula names, which can be provided either through textual input or uploaded as images.
+                        Flask web app that converts chemical names to formulas using both text and image input, featuring OCR with Tesseract, a clean UI, and built-in help and history tools.
                         </span>
                         <div className='pt-2 text-center'>
-                            <a target="_blank" rel="noreferrer" href="https://youtu.be/LJfloeurg60">
-                                <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                            </a>
                             <a target="_blank" rel="noreferrer" href="https://github.com/Redennison/ChemCam">
                                 <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
                     </div>
                 </div>
-                <div style={{backgroundImage: `url(${DeriveFX})`}} 
+                <div style={{backgroundImage: `url(${TutorCentre})`}} 
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                     
                     {/* Hover effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='pb-2 text-2xl font-bold text-white tracking-wider flex justify-center'>
-                            DeriveFX
+                            Tutor Centre
                         </span>
                         <span className='mx-4 text-sm font-bold text-white tracking-wider flex justify-center'>
-                        A JavaFX application that offers a comprehensive graphical and algebraic representation of function derivatives based on user-provided input.
+                        Flask and MongoDB-based platform designed to connect students with tutors. Features filtering options, tutor self-listing, and a simple interface for discovery and outreach.
                         </span>
                         <div className='pt-2 text-center'>
-                            <a target="_blank" rel="noreferrer" href="https://youtu.be/i_vfXLsiKcQ">
-                                <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                            </a>
-                            <a target="_blank" rel="noreferrer" href="https://github.com/Redennison/DeriveFX">
+                            <a target="_blank" rel="noreferrer" href="https://github.com/Redennison/Tutor-Centre">
                                 <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
